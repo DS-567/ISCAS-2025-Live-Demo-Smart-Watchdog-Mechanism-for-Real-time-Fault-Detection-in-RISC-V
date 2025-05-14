@@ -2,3 +2,8 @@
 # Smart Watchdog Mechanism for Real time Fault Detection in RISC-V
 
 test
+
+
+# Citation
+
+include citation details
