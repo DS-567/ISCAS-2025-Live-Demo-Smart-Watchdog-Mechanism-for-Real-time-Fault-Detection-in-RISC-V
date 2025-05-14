@@ -3,6 +3,10 @@
 
 test
 
+# Overview
+
+This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also published at ISCAS 2025.
+
 
 # Citation
 
