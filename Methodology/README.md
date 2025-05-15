@@ -17,16 +17,30 @@ Every clock cycle of execute in Neorv32, six data points are extracted:
 * Machine Trap Base Address Register (MTVEC): Holds the base address of the trap handler (trap entry point).
 * Machine Exception Program Counter (MEPC): Holds the return address from the trap handler (trap exit point).
 
-**Stage 2 - Feature Extraction** : dfafagdg
+## **Stage 2 - Feature Extraction**:
 
-**Stage 3 - Dataset Preprocessing** : dfafagdg
+dfafagdg
 
-**Stage 4 - SNN Model Design** : dfafagdg
+## **Stage 3 - Dataset Preprocessing**:
 
-**Stage 5 - SNN Model Training** : dfafagdg
+dfafagdg
 
-**Stage 6 - SNN Model Testing** : dfafagdg
+## **Stage 4 - SNN Model Design**:
 
-**Stage 7 - Smart Watchdog Implementation** : dfafagdg
+dfafagdg
 
-**Stage 8 - Smart Watchdog Validation** : dfafagdg
+## **Stage 5 - SNN Model Training**:
+
+dfafagdg
+
+## **Stage 6 - SNN Model Testing**:
+
+dfafagdg
+
+## **Stage 7 - Smart Watchdog Implementation**:
+
+dfafagdg
+
+## **Stage 8 - Smart Watchdog Validation**:
+
+dfafagdg
