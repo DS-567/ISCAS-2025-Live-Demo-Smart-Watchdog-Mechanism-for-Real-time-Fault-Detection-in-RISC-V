@@ -7,7 +7,7 @@ This live demonstration relates to our paper titled “Smart Watchdog Mechanism 
 In this paper we developed a novel, smarter watchdog paradigm for RISC-V processors capable of detecting control flow errors in real time. Inspired by how the human brain can perform complex computation both efficiently and reliably, we leverage Spiking Neural Networks (SNNs) as the critical decision-making element with the objective of realising a more dependable and hardware friendly watchdog architecture.
 
 ![](../Images/Smart Watchdog.PNG)
-
+![Demo Image](Smart Watchdog.PNG)
 This appears to be first instance of SNNs being used as a watchdog to detect faults/errors in a processing architecture. This repository is created to present this work and provide more detail the smart watchdog that was developed. The live demonstration at ISCAS showcases the smart watchdog delpoyed on FPGA hardware monitoring a RISC-V softcore (Neorv32) running a realisitic motor control task.
 
 # What is a Smart Watchdog? 
