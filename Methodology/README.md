@@ -1,6 +1,6 @@
 # Methodology
 
-There were 8 stages to develop the smart watchdog, as shown below.
+There were 8 stages to develop the smart watchdog, as shown below. This information can also be found in the main paper.
 
 <p align="center">
   <img src="../Images/Methodology.PNG" alt="Methodology" width="900"/>
@@ -36,10 +36,10 @@ These six data signals combined provide information on control flow in the RISC-
 
 ## **Stage 3 - Dataset Preprocessing**:
 
-The feature layer is implemented in software (Python script)....
+The data collection stage gathered around 6.7 million instructions from the RISC-V (Neorv32). As the name implies, there are a reduced number of instructions in the base RISC-V architecture. The data for each instruction in the text files from data collection is passed through feature layer (Python script), creating a binary feature dataset for each of the three applications. As many of the instructions produce the same features, only unique feature samples are appended to the dataset.
 
 <p align="center">
-  <img src="../Images/Dataset_Preprocessing" alt="Dataset Preprocessing" width="600"/>
+  <img src="../Images/Dataset_Preprocessing.PNG" alt="Dataset Preprocessing" width="800"/>
 </p>
 
 ## **Stage 4 - SNN Model Design**:
