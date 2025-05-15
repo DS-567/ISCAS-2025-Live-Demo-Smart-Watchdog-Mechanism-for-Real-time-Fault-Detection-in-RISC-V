@@ -67,7 +67,7 @@ Output layer decoding simply takes the highest sspike count neuron as the class 
 
 ## **Stage 5 - SNN Model Training**:
 
-dfafagdg
+The table below shows the key parameters of the training algorithm using SNNtorch. The Fibonacci Series application is the training dataset.
 
 <p align="center">
   <img src="../Images/SNN_Training.PNG" alt="SNN Training" width="500"/>
@@ -75,7 +75,11 @@ dfafagdg
 
 ## **Stage 6 - SNN Model Testing**:
 
-dfafagdg
+The table below shows the testing  using SNNtorch. The combined dataset from the Bubble Sort and Matrix Multiplication applications is the testing dataset.
+
+<p align="center">
+  <img src="../Images/SNN_Testing.PNG" alt="SNN Testing" width="500"/>
+</p>
 
 ## **Stage 7 - Smart Watchdog Implementation**:
 
