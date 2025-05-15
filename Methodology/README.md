@@ -81,6 +81,8 @@ The table below shows the testing  using SNNtorch. The combined dataset from the
   <img src="../Images/SNN_Testing.PNG" alt="SNN Testing" width="450"/>
 </p>
 
+It is important to note that out of these 155 test samples, 80 were **seen** in the Fibonacci Series dataset during training. The SNN model classified these correctly. More importantly the remaining 75 samples in the test dataset were **unseen** during training to which the SNN classified 72 correctly (96% on unseen data).
+
 ## **Stage 7 - Smart Watchdog Implementation**:
 
 The smart watchdog was implemented in VHDL on an AMD FPGA using Vivado IDE. A block digram below shows the architecture. Every clock cycle, the six data signals from Neorv32 are buffered in a FIFO. A minimal control FSM handles reading the data from the FIFO to the feature layer. Upon an instruction being complete, the 16 features are passed as input to the SNN and the control FSM triggers the SNN. This process repeats while there is data in the FIFO (i.e. not empty).
@@ -89,15 +91,14 @@ The smart watchdog was implemented in VHDL on an AMD FPGA using Vivado IDE. A bl
   <img src="../Images/Smart_Watchdog_Hardware_Implementation.PNG" alt="Smart Watchdog Hardware Implementation" width="550"/>
 </p>
 
-The table below presents the hardware synthesis results, which are discussed in the main paper.
+The table below presents the hardware synthesis results, which are discussed in the main paper. The smart watchdog component currently has a maximum frequency of 350MHz and has a latency of 153 clock cycles, allowing inference to take under 438ns.
 
 <p align="center">
-  <img src="../Images/Hardware_Synthesis_Results.PNG" alt="Hardware Synthesis Results" width="550"/>
+  <img src="../Images/Hardware_Synthesis_Results.PNG" alt="Hardware Synthesis Results" width="350"/>
 </p>
 
 
 ## **Stage 8 - Smart Watchdog Validation**:
 
-The final stage involves hardware validation.
+The final stage involves hardware validation. A new heap sort application was compiled and executed on Neorv32 while faults were injected. The smart watchdog classified instructions in real time on FPGA. The features and SNN class results of each instruction is extracted off FPGA to be analysed in Python.
 
-A new heap sort appication was compiled and executed on Neor32 and the smart watchdog classified instructions in real time on FPGA. 
