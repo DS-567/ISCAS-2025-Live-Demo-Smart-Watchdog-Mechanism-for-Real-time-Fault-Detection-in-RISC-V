@@ -23,6 +23,8 @@ Totals 164 bits of paralel input to the smart watchdog.
 
 These six data signals combined provide information on control flow in the RISC-V architecture. To allow for changes in program code (e.g. different instruction sequences), and to reduce input data width to the smart watchdog, features are extracted as shown below.
 
+![](../Images/Feature_Layer.PNG)
+
 ## **Stage 3 - Dataset Preprocessing**:
 
 dfafagdg
