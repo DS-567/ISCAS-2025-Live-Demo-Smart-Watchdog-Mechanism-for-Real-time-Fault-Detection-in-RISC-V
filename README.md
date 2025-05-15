@@ -10,7 +10,7 @@ This repository aims to
 
 # What is a Watchdog? 
 
-Watchdogs can be independant hardware components that are deployed beside a CPU 
+Watchdogs are independant hardware components that monitor the execution of a software program during runtime. 
 
 # Methodology
 
