@@ -1,6 +1,6 @@
 # ISCAS 2025 Live Demonstration: Smart Watchdog Mechanism for Real time Fault Detection in RISC-V
 
-This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025. Presentation slides and poster can be viewed here.
+This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025. Presentation slides and poster can be viewed [Slides](/Main Paper/Presentation Slides.pdf) and [here](/Poster/Poster.pdf)...
 
 Link to main paper: Available soon!
 
