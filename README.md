@@ -29,7 +29,7 @@ A watchdog is an independant hardware component that monitors the execution of a
 
 A methodology detailing the stages of developing this smart watchdog can be found [here](/Methodology/README.md).
 
-# Live Demonstration of Smart Watchdog
+# Live Demonstration of Smart Watchdog 🚀
 
 This live demonstration 
 
