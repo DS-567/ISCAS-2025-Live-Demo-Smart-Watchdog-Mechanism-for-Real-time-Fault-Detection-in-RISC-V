@@ -1,7 +1,7 @@
 # Methodology
 
 <p align="center">
-  <img src="Images/Methodology.PNG" alt="Smart Watchdog" width="400"/>
+  <img src="../Images/Methodology.PNG" alt="Methodology" width="400"/>
 </p>
 There were 8 stages to develop the smart watchdog, as shown below.
 
