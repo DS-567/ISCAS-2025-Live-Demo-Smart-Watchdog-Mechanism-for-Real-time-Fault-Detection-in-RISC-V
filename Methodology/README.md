@@ -21,13 +21,13 @@ Totals 164 bits of paralel input to the smart watchdog.
 
 ## **Stage 2 - Feature Extraction**:
 
-These six data signals combined provide information on control flow in the RISC-V architecture. To allow for changes in program code (e.g. different instruction sequences), and to reduce input data width to the smart watchdog, features are extracted as shown below.
+These six data signals combined provide information on control flow in the RISC-V architecture. To allow for changes in program code (e.g. different instruction sequences), and to reduce input data width to the smart watchdog, features are extracted as shown below. The 164 bits are condersed down to just 16 binary features, with each feature capturing a single piece of information relating to the current instruction.
 
 ![](../Images/Feature_Layer.PNG)
 
 ## **Stage 3 - Dataset Preprocessing**:
 
-dfafagdg
+The feature layer is implemented in software (Python script)....
 
 ## **Stage 4 - SNN Model Design**:
 
