@@ -12,12 +12,12 @@ A custom hardware framework was developed to inject faults into RISC-V core and 
 
 Every clock cycle of execution in Neorv32, six data points are extracted:
 
-* Instruction Register (IR): Defines the type of instruction being executed.
-* Program Counter Register (PC): Holds the memory address of the instruction being executed.
-* FSM Execute Engine States: Internal CPU states (instruction dispatch, execute, branched, trap entry etc).
-* Source Register 1 (RS1): Source register 1 used in instructions (can hold addresses for computation).
-* Machine Trap Base Address Register (MTVEC): Holds the base address of the trap handler (trap entry point).
-* Machine Exception Program Counter (MEPC): Holds the return address from the trap handler (trap exit point).
+* **Instruction Register (IR):** Defines the type of instruction being executed.
+* **Program Counter Register (PC):** Holds the memory address of the instruction being executed.
+* **FSM Execute Engine States:** Internal CPU states (instruction dispatch, execute, branched, trap entry etc).
+* **Source Register 1 (RS1):** Source register 1 used in instructions (can hold addresses for computation).
+* **Machine Trap Base Address Register (MTVEC):** Holds the base address of the trap handler (trap entry point).
+* **Machine Exception Program Counter (MEPC):** Holds the return address from the trap handler (trap exit point).
 
 Totals 164 bits of parallel input to the smart watchdog.
 
