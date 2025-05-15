@@ -12,8 +12,8 @@ A custom hardware framework was developed to inject faults into RISC-V core and 
 
 Three different software applications were executed on Neorv32:
 * **Fibonacci Series - generates first 45 numbers.**
-* **Bubble Sort - 25 numbers.**
-* **Matrix Multiplication - 4x4 matrix**
+* **Bubble Sort - sorts 25 numbers.**
+* **Matrix Multiplication - multiplies a 4x4 matrix**
 
 Every clock cycle of execution in Neorv32, six data points are extracted:
 
