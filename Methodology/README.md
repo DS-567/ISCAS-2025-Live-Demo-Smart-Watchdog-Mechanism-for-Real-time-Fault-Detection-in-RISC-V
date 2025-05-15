@@ -89,6 +89,15 @@ The smart watchdog was implemented in VHDL on an AMD FPGA using Vivado IDE. A bl
   <img src="../Images/Smart_Watchdog_Hardware_Implementation.PNG" alt="Smart Watchdog Hardware Implementation" width="550"/>
 </p>
 
+The table below presents the hardware synthesis results, which are discussed in the main paper.
+
+<p align="center">
+  <img src="../Images/Hardware_Synthesis_Results.PNG" alt="Hardware Synthesis Results" width="550"/>
+</p>
+
+
 ## **Stage 8 - Smart Watchdog Validation**:
 
-dfafagdg
+The final stage involves hardware validation.
+
+A new heap sort appication was compiled and executed on Neor32 and the smart watchdog classified instructions in real time on FPGA. 
