@@ -100,5 +100,16 @@ The table below presents the hardware synthesis results, which are discussed in 
 
 ## **Stage 8 - Smart Watchdog Validation**:
 
-The final stage involves hardware validation. A new heap sort application was compiled and executed on Neorv32 while faults were injected. The smart watchdog classified instructions in real time on FPGA. The features and SNN class results of each instruction is extracted off FPGA to be analysed in Python.
+The final stage involves hardware validation. A new Heap Sort application was compiled and executed on Neorv32 while faults were injected. The features and SNN class results of each instruction is extracted off FPGA to be analysed in Python. The table below presents the validation results.
 
+The smart watchdog classified around 2.4 million instructions in real time on FPGA. Following the same dataset preprocessing process as the other applications, there were 100 unique features samples from the Heap Sort application.
+
+<p align="center">
+  <img src="../Images/Hardware_Validation_Results.PNG" alt="Hardware Validation Results" width="400"/>
+</p>
+
+RISC-V processors have a trap handler software routine for handling interrupts and exceptions (i.e. faulty conditions). Some control flow errors resulted in traps being triggered in Neorv32 while others are not identified. Unidentified control flow errors can be dangerous and result in silent data corruption. The table below shows the fault detection capability of the smart watchdog in the errors that went undetected by the RISC-V processor.
+
+<p align="center">
+  <img src="../Images/Hardware_Validation_Fault_Detection_Capability.PNG" alt="Hardware Validation Hardware Validation Fault Detection Capability" width="400"/>
+</p>
