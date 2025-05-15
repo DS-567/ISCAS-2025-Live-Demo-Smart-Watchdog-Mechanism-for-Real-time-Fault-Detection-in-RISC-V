@@ -8,14 +8,14 @@ There were 8 stages to develop the smart watchdog, as shown below. **Include dia
 
 **Stage 2 - Feature Extraction** : dfafagdg
 
-**Stage 3 - Feature Extraction** : dfafagdg
+**Stage 3 - Dataset Preprocessing** : dfafagdg
 
-**Stage 4 - Feature Extraction** : dfafagdg
+**Stage 4 - SNN Model Design** : dfafagdg
 
-**Stage 5 - Feature Extraction** : dfafagdg
+**Stage 5 - SNN Model Training** : dfafagdg
 
-**Stage 6 - Feature Extraction** : dfafagdg
+**Stage 6 - SNN Model Testing** : dfafagdg
 
-**Stage 7 - Feature Extraction** : dfafagdg
+**Stage 7 - Smart Watchdog Implementation** : dfafagdg
 
-**Stage 8 - Feature Extraction** : dfafagdg
+**Stage 8 - Smart Watchdog Validation** : dfafagdg
