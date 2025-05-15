@@ -10,6 +10,11 @@ There were 8 stages to develop the smart watchdog, as shown below.
 
 A custom hardware framework was developed to inject faults into RISC-V core and extract instruction data to text files, creating a library of instructions executed normally and with control flow errors occuring. (Hardware architecture will be discussed in a future publication).
 
+Three different software applications were executed on Neorv32:
+* **Fibonacci Series - generates first 45 numbers.**
+* **Bubble Sort - 25 numbers.**
+* **Matrix Multiplication - 4x4 matrix**
+
 Every clock cycle of execution in Neorv32, six data points are extracted:
 
 * **Instruction Register (IR):** Defines the type of instruction being executed.
