@@ -81,7 +81,7 @@ The table below shows the testing  using SNNtorch. The combined dataset from the
   <img src="../Images/SNN_Testing.PNG" alt="SNN Testing" width="450"/>
 </p>
 
-It is important to note that out of these 155 test samples, 80 were **seen** in the Fibonacci Series dataset during training. The SNN model classified these correctly. More importantly the remaining 75 samples in the test dataset were **unseen** during training to which the SNN classified 72 correctly (96% on unseen data).
+It is important to note that out of these 155 test samples, 80 were **seen** in the Fibonacci Series dataset during training. The SNN model classified these correctly. More importantly the remaining 75 samples in the test dataset were **unseen** during training to which the SNN classified 72 correctly (96% accuracy on unseen data).
 
 ## **Stage 7 - Smart Watchdog Implementation**:
 
@@ -102,7 +102,7 @@ The table below presents the hardware synthesis results, which are discussed in 
 
 The final stage involves hardware validation. A new Heap Sort application was compiled and executed on Neorv32 while faults were injected. The features and SNN class results of each instruction is extracted off FPGA to be analysed in Python. The table below presents the validation results.
 
-The smart watchdog classified around 2.4 million instructions in real time on FPGA. Following the same dataset preprocessing process as the other applications, there were 100 unique features samples from the Heap Sort application.
+The smart watchdog classified around 2.4 million instructions in real time on FPGA. Following the same dataset preprocessing process as the other applications, there were 100 unique features samples from the Heap Sort application. There were 11 new samples that appeared from the Heap Sort application that were not seen during training or testing previously. The smart watchdog classified all 11 of these correctly (a further 100% accuracy on unseen data).
 
 <p align="center">
   <img src="../Images/Hardware_Validation_Results.PNG" alt="Hardware Validation Results" width="400"/>
