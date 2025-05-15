@@ -38,6 +38,10 @@ These six data signals combined provide information on control flow in the RISC-
 
 The feature layer is implemented in software (Python script)....
 
+<p align="center">
+  <img src="../Images/Dataset_Preprocessing" alt="Dataset Preprocessing" width="600"/>
+</p>
+
 ## **Stage 4 - SNN Model Design**:
 
 dfafagdg
