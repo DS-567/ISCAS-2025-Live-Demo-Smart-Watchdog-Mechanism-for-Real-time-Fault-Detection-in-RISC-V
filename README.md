@@ -14,7 +14,7 @@ When a software program is written (e.g. C, assembly), compliation tools convert
 
 A watchdog is an independant hardware component that monitors the execution of a software program during runtime, and can detect when CFEs occur. This smart watchdog uses a SNN to make decisions on program execution based on an offline training process.
 
-The methodology of how the smart watchdog was developed can be found [here](/Methodology/README.md).
+A methodology detailing the stages of developing the smart watchdog can be found [here](/Methodology/README.md).
 
 # Live Demonstration of Smart Watchdog
 
