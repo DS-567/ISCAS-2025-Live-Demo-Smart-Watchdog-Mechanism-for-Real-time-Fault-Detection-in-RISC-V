@@ -24,7 +24,7 @@ When a software program is written for an embedded processors (e.g. C, or assemb
 A watchdog is an independant hardware component that monitors the execution of a software program during runtime, and can detect when CFEs occur. We call this a smart watchdog as it uses a brain-like circuit (SNN) that can be trained to make decisions on program execution based on a training process.
 
 <p align="center">
-  <img src="Images/Smart_Watchdog_Hardware_Implementation.PNG" alt="Smart Watchdog Hardware Implementation" width="400"/>
+  <img src="Images/Smart_Watchdog_Hardware_Implementation.PNG" alt="Smart Watchdog Hardware Implementation" width="550"/>
 </p>
 
 A methodology detailing the stages of developing this smart watchdog can be found [here](/Methodology/README.md).
