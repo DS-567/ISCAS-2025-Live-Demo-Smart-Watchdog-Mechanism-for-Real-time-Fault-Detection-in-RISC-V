@@ -69,6 +69,10 @@ Output layer decoding simply takes the highest sspike count neuron as the class 
 
 dfafagdg
 
+<p align="center">
+  <img src="../Images/SNN_Training.PNG" alt="SNN Training" width="500"/>
+</p>
+
 ## **Stage 6 - SNN Model Testing**:
 
 dfafagdg
