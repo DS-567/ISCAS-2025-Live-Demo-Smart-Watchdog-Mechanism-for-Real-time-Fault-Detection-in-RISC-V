@@ -37,7 +37,7 @@ This live demonstration showcases the smart watchdog hardware model monitoring e
 
 Feel free to reach out via email: simpson-d12@ulster.ac.uk
 
-Or connec ton LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
+Or connect on LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
 # Citation
 
