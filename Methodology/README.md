@@ -4,7 +4,9 @@
 
 There were 8 stages to develop the smart watchdog, as shown below. **Include diagram**
 
-**Stage 1 - Data Collection** : A custom hardware framework was developed to inject faults into RISC-V core and extract instruction data to text files, creating a library of instructions executed normally and with control flow errors occuring. (Hardware architecture will be discussed in a future publication).
+## **Stage 1 - Data Collection**:
+
+A custom hardware framework was developed to inject faults into RISC-V core and extract instruction data to text files, creating a library of instructions executed normally and with control flow errors occuring. (Hardware architecture will be discussed in a future publication).
 
 Every clock cycle of execute in Neorv32, six data points are extracted:
 
