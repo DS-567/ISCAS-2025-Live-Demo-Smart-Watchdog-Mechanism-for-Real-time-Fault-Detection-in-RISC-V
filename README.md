@@ -29,7 +29,7 @@ There were 8 stages to develop the smart watchdog, as shown below. **Include dia
 **Stage 7** - 
 **Stage 8** - 
 
-# Live Demonstration
+# Live Demonstration of Smart Watchdog
 
 # Citation
 
