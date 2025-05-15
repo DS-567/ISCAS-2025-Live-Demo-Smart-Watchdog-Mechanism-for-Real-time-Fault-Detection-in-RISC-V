@@ -70,7 +70,7 @@ Output layer decoding simply takes the highest sspike count neuron as the class 
 The table below shows the key parameters of the training algorithm using SNNtorch. The Fibonacci Series application is the training dataset.
 
 <p align="center">
-  <img src="../Images/SNN_Training.PNG" alt="SNN Training" width="500"/>
+  <img src="../Images/SNN_Training.PNG" alt="SNN Training" width="450"/>
 </p>
 
 ## **Stage 6 - SNN Model Testing**:
@@ -78,12 +78,16 @@ The table below shows the key parameters of the training algorithm using SNNtorc
 The table below shows the testing  using SNNtorch. The combined dataset from the Bubble Sort and Matrix Multiplication applications is the testing dataset.
 
 <p align="center">
-  <img src="../Images/SNN_Testing.PNG" alt="SNN Testing" width="500"/>
+  <img src="../Images/SNN_Testing.PNG" alt="SNN Testing" width="450"/>
 </p>
 
 ## **Stage 7 - Smart Watchdog Implementation**:
 
-dfafagdg
+The smart watchdog was implemented in VHDL on an AMD FPGA using Vivado IDE. A block digram below shows the architecture. Every clock cycle, the six data signals from Neorv32 are buffered in a FIFO. A minimal control FSM handles reading the data from the FIFO to the feature layer. Upon an instruction being complete, the 16 features are passed as input to the SNN and the control FSM triggers the SNN. This process repeats while there is data in the FIFO (i.e. not empty).
+
+<p align="center">
+  <img src="../Images/Smart_Watchdog_Hardware_Implementation.PNG" alt="Smart Watchdog Hardware Implementation" width="550"/>
+</p>
 
 ## **Stage 8 - Smart Watchdog Validation**:
 
