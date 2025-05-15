@@ -12,22 +12,7 @@ This appears to be first instance of SNNs being used as a watchdog to detect fau
 
 When a software program is written (e.g. C, assembly), compliation tools convert this high level code into a sequence of instructions. The CPU then fetches instructions dynamically to realise the program algorithm. Transient faults such as Single Event Upsets (SEUs) can corrupt this instruction sequence, causing the program to be executed incorrectly. This is known as a Control Flow Error (CFE).
 
-A watchdog is an independant hardware component that monitors the execution of a software program during runtime, and can detect when CFEs occur. This smart watchdog uses a SNN to make decisions on program execution based on an offline training process.
-
-# Methodology
-
-There were 8 stages to develop the smart watchdog, as shown below. **Include diagram**
-
-**Stage 1** - dgd
-
-**Stage 2** - dgdg
-
-**Stage 3** - 
-**Stage 4** - 
-**Stage 5** - 
-**Stage 6** - 
-**Stage 7** - 
-**Stage 8** - 
+A watchdog is an independant hardware component that monitors the execution of a software program during runtime, and can detect when CFEs occur. This smart watchdog uses a SNN to make decisions on program execution based on an offline training process. The methodology of how the smart watchdog was developed can be found **here**.
 
 # Live Demonstration of Smart Watchdog
 
