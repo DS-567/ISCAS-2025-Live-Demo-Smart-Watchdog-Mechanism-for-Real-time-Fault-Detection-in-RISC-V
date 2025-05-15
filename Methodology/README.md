@@ -2,7 +2,7 @@
 
 There were 8 stages to develop the smart watchdog, as shown below. **Include diagram**
 
-![Poster preview](Images/Methodology.png)
+(Images/Methodology.png)
 
 **Stage 1** - dgd
 
