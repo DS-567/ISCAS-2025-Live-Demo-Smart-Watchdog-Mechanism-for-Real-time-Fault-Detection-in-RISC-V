@@ -4,10 +4,8 @@
 
 [2] - P. Bernardi, L. M. V. Bolzani, M. Rebaudengo, M. S. Reorda, F. L. Vargas, and M. Violante, “A new hybrid fault detection technique for systems-on-a-chip,” IEEE Transactions on Computers, vol. 55, no. 2, pp. 185–198, Feb. 2006, doi: 10.1109/TC.2006.15. ​
 
-[3] - S. Dutto, A. Savino, and S. Di Carlo, “Exploring Deep Learning for In-Field Fault Detection in Microprocessors,” in 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE), IEEE, Feb. 2021, pp. 1456–1459. doi: 10.23919/DATE51398.2021.9474120. ​
+[3] - M. Dampfhoffer, T. Mesquida, A. Valentian, and L. Anghel, “Backpropagation-Based Learning Techniques for Deep Spiking Neural Networks: A Survey,” IEEE Trans Neural Netw Learn Syst, vol. 35, no. 9, pp. 11906–11921, Sep. 2024, doi:10.1109/TNNLS.2023.3263008.​
 
-[4] - M. Dampfhoffer, T. Mesquida, A. Valentian, and L. Anghel, “Backpropagation-Based Learning Techniques for Deep Spiking Neural Networks: A Survey,” IEEE Trans Neural Netw Learn Syst, vol. 35, no. 9, pp. 11906–11921, Sep. 2024, doi:10.1109/TNNLS.2023.3263008.​
+[4] - S. Nolting, “The NEORV32 RISC-V Processor - Datasheet,” https://stnolting.github.io/neorv32/.​
 
-[5] - S. Nolting, “The NEORV32 RISC-V Processor - Datasheet,” https://stnolting.github.io/neorv32/.​
-
-[6] - J. Eshraghian, “SNNtorch,” https://github.com/jeshraghian/snntorch.
+[5] - J. Eshraghian, “SNNtorch,” https://github.com/jeshraghian/snntorch.
