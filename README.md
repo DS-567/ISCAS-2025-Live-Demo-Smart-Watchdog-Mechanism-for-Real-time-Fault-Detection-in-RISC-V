@@ -8,9 +8,9 @@ In this paper we developed a novel, smarter watchdog paradigm for RISC-V process
 
 This repository aims to 
 
-# Overview
+# What is a Watchdog? 
 
-fill ...
+Watchdogs can be independant hardware components that are deployed beside a CPU 
 
 # Methodology
 
