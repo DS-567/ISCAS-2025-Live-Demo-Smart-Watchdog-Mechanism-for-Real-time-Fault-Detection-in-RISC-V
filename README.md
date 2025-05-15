@@ -33,6 +33,12 @@ A methodology detailing the stages of developing this smart watchdog can be foun
 
 This live demonstration showcases the smart watchdog hardware model monitoring execution Neorv32 in real time. 
 
+# Contact
+
+Feel free to reach out via email: simpson-d12@ulster.ac.uk
+
+Or connec ton LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
+
 # Citation
 
 include citation details
