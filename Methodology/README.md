@@ -3,6 +3,7 @@
 <p align="center">
   <img src="../Images/Methodology.PNG" alt="Methodology" width="900"/>
 </p>
+
 There were 8 stages to develop the smart watchdog, as shown below.
 
 ## **Stage 1 - Data Collection**:
@@ -24,7 +25,9 @@ Totals 164 bits of paralel input to the smart watchdog.
 
 These six data signals combined provide information on control flow in the RISC-V architecture. To allow for changes in program code (e.g. different instruction sequences), and to reduce input data width to the smart watchdog, features are extracted as shown below. The 164 bits are condersed down to just 16 binary features, with each feature capturing a single piece of information relating to the current instruction.
 
-![](../Images/Feature_Layer.PNG)
+<p align="center">
+  <img src="../Images/Feature_Layer.PNG" alt="Feature Layer" width="500"/>
+</p>
 
 ## **Stage 3 - Dataset Preprocessing**:
 
