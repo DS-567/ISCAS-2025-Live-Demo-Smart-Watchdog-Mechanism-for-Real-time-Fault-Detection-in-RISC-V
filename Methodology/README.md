@@ -3,7 +3,7 @@
 There were 8 stages to develop the smart watchdog, as shown below. This information can also be found in the main paper.
 
 <p align="center">
-  <img src="../Images/Methodology.PNG" alt="Methodology" width="900"/>
+  <img src="../Images/Methodology.PNG" alt="Methodology" width="820"/>
 </p>
 
 ## **Stage 1 - Data Collection**:
@@ -31,7 +31,7 @@ Totals 164 bits of parallel input to the smart watchdog.
 These six data signals combined provide information on control flow in the RISC-V architecture. To allow for changes in program code (e.g. different instruction sequences), and to reduce input data width to the SNN, features are extracted as shown below. The 164 bits are condensed down to just 16 binary features, with each feature capturing a single piece of information relating to the current instruction. The goal is to train the SNN model to distinguish between normal execution and control flow errors.
 
 <p align="center">
-  <img src="../Images/Feature_Layer.PNG" alt="Feature Layer" width="600"/>
+  <img src="../Images/Feature_Layer.PNG" alt="Feature Layer" width="575"/>
 </p>
 
 ## **Stage 3 - Dataset Preprocessing**:
@@ -39,7 +39,7 @@ These six data signals combined provide information on control flow in the RISC-
 The data collection stage gathered around 6.7 million instructions from the RISC-V (Neorv32). As the name implies, there are a reduced number of instructions in the base RISC-V architecture. The data for each instruction in the text files from data collection is passed through feature layer (Python script), creating a binary feature dataset for each of the three applications. As many of the instructions produce the same features, only unique feature samples are appended to the dataset.
 
 <p align="center">
-  <img src="../Images/Dataset_Preprocessing.PNG" alt="Dataset Preprocessing" width="800"/>
+  <img src="../Images/Dataset_Preprocessing.PNG" alt="Dataset Preprocessing" width="775"/>
 </p>
 
 The binary feature datasets for each application are shown below. Fibonacci Series datset is used to train the SNN and a combined dataset from the Bubble Sort and Matrix Multiplication is used to test the SNN model. As the testing dataset is larger, there will be unseen data samples for a fair evaluation of the developed model.
@@ -50,7 +50,20 @@ The binary feature datasets for each application are shown below. Fibonacci Seri
 
 ## **Stage 4 - SNN Model Design**:
 
-dfafagdg
+Key design choices for the SNN model are shown below. The SNN will take the 16 binary features directly as inputs. The input layer acts as a spike encoding with a custom rate-based enconding scheme:
+
+Logic 0 feature - 2 spikes
+Logic 1 feature - 8 spikes
+
+The SNN will be stimulated for just 10 timesteps to keep inference quick.
+
+Network size is 16 inputs and hidden and output layers of 20 and 2 leaky-integrate and fire neurons respectively. 
+
+Output layer decoding simply takes the highest sspike count neuron as the class winner for the inference.
+
+<p align="center">
+  <img src="../Images/SNN_Model_Design.PNG" alt="SNN Model Design" width="850"/>
+</p>
 
 ## **Stage 5 - SNN Model Training**:
 
