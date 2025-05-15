@@ -6,9 +6,8 @@ Presentation slides and poster can be viewed here.
 
 Poster can be viewed here.
 
-Links to main paper: Available soon!
-
-Links to live demo paper: Available soon!
+Link to main paper: Available soon!
+Link to live demo paper: Available soon!
 
 # Summary
 
