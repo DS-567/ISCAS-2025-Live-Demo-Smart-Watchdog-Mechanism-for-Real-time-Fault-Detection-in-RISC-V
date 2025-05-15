@@ -42,6 +42,12 @@ The data collection stage gathered around 6.7 million instructions from the RISC
   <img src="../Images/Dataset_Preprocessing.PNG" alt="Dataset Preprocessing" width="800"/>
 </p>
 
+The binary feature datasets for each application are shown below. Fibonacci Series datset is used to train the SNN and a combined dataset from the Bubble Sort and Matrix Multiplication is used to test the SNN model. As the testing dataset is larger, there will be unseen data samples for a fair evaluation of the developed model.
+
+<p align="center">
+  <img src="../Images/Application_Datasets.PNG" alt="Application Datasets" width="500"/>
+</p>
+
 ## **Stage 4 - SNN Model Design**:
 
 dfafagdg
