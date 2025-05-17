@@ -48,7 +48,7 @@ This live demonstration deploys the developed smart watchdog model on FPGA to mo
 ## Overview
 
 * A [basic PI-control algorithmn](/link) written in C is compiled and executed on Neorv32, resembling a safety-critical motor control task.
-* The the speed and direction of the motor can be controlled while faults are injected into the program counter register of Neorv32 where control flow errors might manifest.
+* The speed and direction of the motor can be controlled while faults are injected into the program counter register of Neorv32 where control flow errors might manifest.
 * The smart watchdog monitors each instruction executed by Neorv32 and classifies accordingly, i.e. normal program execution or control flow error detected.
 * Smart watchdog class decisions and other information is extracted to a Python GUI over UART for displaying to the demo attendees.
 
