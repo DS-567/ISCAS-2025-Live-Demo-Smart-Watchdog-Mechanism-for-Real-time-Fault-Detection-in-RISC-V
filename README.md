@@ -70,6 +70,8 @@ IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
 
 ## Hardware Details
 
+## Video of Smart Watchdog Live Demoonstration
+
 Check out a video of the smart watchdog in action: [Live Demo Video](/link)
 
 # Contact
