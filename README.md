@@ -15,6 +15,8 @@ This live demonstration relates to our paper titled “Smart Watchdog Mechanism 
 
 Link to IEEE papers on icons above will be available with the proceedings!
 
+A video of the live demonstation can be viewed [here](/link).
+
 # Summary 👀
 
 In this paper we developed a novel, smarter watchdog paradigm for RISC-V processors capable of detecting control flow errors in real time. Inspired by how the human brain can perform complex computation both efficiently and reliably, we leverage Spiking Neural Networks (SNNs) as the critical decision-making element with the objective of realising a more dependable and hardware friendly watchdog architecture.
