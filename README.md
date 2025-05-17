@@ -58,7 +58,7 @@ The demonstration setup is shown below.
 
 IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
 
-## Hardware Setup / Motor Control ???
+## Motor Control Task
 
 - Overview of application
 - Description of hardware setup
