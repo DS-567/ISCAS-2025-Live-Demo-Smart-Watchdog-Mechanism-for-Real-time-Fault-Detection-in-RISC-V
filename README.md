@@ -4,19 +4,18 @@
 
 # ISCAS 2025 Live Demonstration: Smart Watchdog Mechanism for Real time Fault Detection in RISC-V
 
-[![](https://img.shields.io/badge/Slides-yellow)](/Paper/)
-
-This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025. Presentation slides and poster can be viewed here: [Slides](/Paper) and [Poster](/Poster)
-
-Link to main paper: Available soon with proceedings!
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/)
+[![IEEE Demo Paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/)
+[![](https://img.shields.io/badge/Slides-yellow)](/Paper/)
+[![](https://img.shields.io/badge/Slides-red)](/Poster/)
 
-Link to live demo paper: Available soon with proceedings!
+This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025.
+
+Link to IEEE papers available soon with proceedings!
 
 # Summary
 
 In this paper we developed a novel, smarter watchdog paradigm for RISC-V processors capable of detecting control flow errors in real time. Inspired by how the human brain can perform complex computation both efficiently and reliably, we leverage Spiking Neural Networks (SNNs) as the critical decision-making element with the objective of realising a more dependable and hardware friendly watchdog architecture.
-
 
 <p align="center">
   <img src="Images/Smart_Watchdog.PNG" alt="Smart Watchdog" width="400"/>
