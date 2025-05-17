@@ -65,7 +65,7 @@ IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
 - animations?
 
 <p align="center">
-  <img src="Images/Demo_Application_Diagram.PNG" alt="Demo Application Diagram" width="500"/>
+  <img src="Images/Demo_Application_Diagram.PNG" alt="Demo Application Diagram" width="575"/>
 </p>
 
 ## Hardware Details
