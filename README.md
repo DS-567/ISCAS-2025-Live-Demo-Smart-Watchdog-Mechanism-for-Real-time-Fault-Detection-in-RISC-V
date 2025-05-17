@@ -15,7 +15,7 @@ This live demonstration relates to our paper titled “Smart Watchdog Mechanism 
 
 Link to IEEE papers on icons above will be available with the proceedings!
 
-A video of the live demonstation can be viewed [here](/link).
+Click [here](/link) to see a video of the smart watchdog in action!
 
 # Summary 👀
 
