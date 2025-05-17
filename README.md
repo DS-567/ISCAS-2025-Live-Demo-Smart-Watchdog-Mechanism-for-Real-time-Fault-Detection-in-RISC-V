@@ -27,9 +27,11 @@ This appears to be first instance of SNNs being used as a watchdog to detect fau
 
 # Background
 
-## What is a Smart Watchdog? 
+## What is a Control Flow Error?
 
 When a software program is written for an embedded processors (e.g. C, or assembly), compliation toolchains convert this high level code into a sequence of instructions. The CPU then fetches instructions dynamically to execute the program algorithm. Transient faults such as Single Event Upsets (SEUs) can corrupt this sequence of instruction executed, causing the processor to deviate away from the correct program flow. This is known as a Control Flow Error (CFE).
+
+## What is a Smart Watchdog? 
 
 A watchdog is an independant hardware component that monitors the execution of a software program during runtime, and can detect when CFEs occur. We call this a smart watchdog as it uses a brain-like circuit (SNN) that can be trained to make decisions on program execution based on a training process. The diagram below shows the smart watchdog implemented in hardware, and monitoring the RISC-V processor (Neorv32).
 
