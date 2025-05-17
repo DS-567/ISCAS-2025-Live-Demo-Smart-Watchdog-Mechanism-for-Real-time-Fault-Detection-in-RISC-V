@@ -47,9 +47,13 @@ The 8-stage methodology for developing this smart watchdog can be found [here](/
 
 This live demonstration deploys the developed smart watchdog model on FPGA to monitor program execution in real time of the RISC-V processor (Neorv32).
 
+## Overview
+
 * A basic PI-control algorithmn written in C is compiled and executed on Neorv32, resembling a safety-critical task.
 * The user can contriol the speed and direction of the motor while injecting faults into the program counter register of Neorv32 where control flow errors might manifest.
 * The smart watchdog monitors each instruction executed by Neorv32 and classifies accordingly, i.e. normal execution or control flow error detected.
+
+## Hardware Setup
 
 The hardware setup is shown below.
 
