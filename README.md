@@ -41,7 +41,7 @@ A watchdog is an independant hardware component that monitors the execution of a
 
 The 8-stage methodology for developing this smart watchdog can be found [here](/Methodology/README.md).
 
-# Live Demonstration of Smart Watchdog 🚀
+# Smart Watchdog Live Demonstration 🚀
 
 This live demonstration deploys the developed smart watchdog model on FPGA to monitor program execution in real time of the RISC-V processor (Neorv32).
 
