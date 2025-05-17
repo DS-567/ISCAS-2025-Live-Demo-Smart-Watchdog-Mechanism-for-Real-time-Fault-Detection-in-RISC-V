@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/)
 
 
-[![](https://img.shields.io/badge/Live--Demo-blue)](https://example.com/demo)
+[![](https://img.shields.io/badge/Live-Demo-blue)](https://example.com/demo)
 
 
 [![](https://img.shields.io/badge/Slides-yellow)](/Paper/)
