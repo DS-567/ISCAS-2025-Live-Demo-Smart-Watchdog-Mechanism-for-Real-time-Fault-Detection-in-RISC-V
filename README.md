@@ -25,7 +25,7 @@ In this paper we developed a novel, smarter watchdog paradigm for RISC-V process
   <img src="Images/Smart_Watchdog.PNG" alt="Smart Watchdog" width="400"/>
 </p>
 
-This appears to be first instance of SNNs being used as a watchdog to detect faults/errors in a processor architecture. This repository is created to support the live demonstration at ISCAS 2025, which showcases the smart watchdog delpoyed on FPGA hardware monitoring a RISC-V softcore (Neorv32) running a realisitic motor control task.
+This appears to be first instance of SNNs being used as a watchdog to detect faults/errors in a processor architecture. This repository is created to support the live demonstration at ISCAS 2025, which showcases the smart watchdog deployed on FPGA hardware monitoring a RISC-V softcore (Neorv32) running a realisitic motor control task.
 
 # Background ⁉️
 
