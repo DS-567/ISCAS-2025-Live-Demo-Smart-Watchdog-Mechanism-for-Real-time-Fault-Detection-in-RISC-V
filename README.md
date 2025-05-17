@@ -15,7 +15,7 @@ This live demonstration relates to our paper titled “Smart Watchdog Mechanism 
 
 Link to IEEE papers on icons above will be available with the proceedings!
 
-# Summary
+# Summary 👀
 
 In this paper we developed a novel, smarter watchdog paradigm for RISC-V processors capable of detecting control flow errors in real time. Inspired by how the human brain can perform complex computation both efficiently and reliably, we leverage Spiking Neural Networks (SNNs) as the critical decision-making element with the objective of realising a more dependable and hardware friendly watchdog architecture.
 
@@ -25,9 +25,9 @@ In this paper we developed a novel, smarter watchdog paradigm for RISC-V process
 
 This appears to be first instance of SNNs being used as a watchdog to detect faults/errors in a processor architecture. This repository is created to support the live demonstration at ISCAS 2025, which showcases the smart watchdog delpoyed on FPGA hardware monitoring a RISC-V softcore (Neorv32) running a realisitic motor control task.
 
-# Background
+# Background ⁉️
 
-## What is a Control Flow Error?
+## What is a Control Flow Error? ✖️
 
 When a software program is written for an embedded processors (e.g. C, or assembly), compliation toolchains convert this high level code into a sequence of instructions. The CPU then fetches instructions dynamically to execute the program algorithm. Transient faults such as Single Event Upsets (SEUs) can corrupt this sequence of instruction executed, causing the processor to deviate away from the correct program flow. This is known as a Control Flow Error (CFE).
 
