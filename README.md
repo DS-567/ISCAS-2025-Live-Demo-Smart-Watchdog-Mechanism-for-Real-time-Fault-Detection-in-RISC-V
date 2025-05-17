@@ -51,11 +51,13 @@ This live demonstration deploys the developed smart watchdog model on FPGA to mo
 * The user can control the speed and direction of the motor while injecting faults into the program counter register of Neorv32 where control flow errors might manifest.
 * The smart watchdog monitors each instruction executed by Neorv32 and classifies accordingly, i.e. normal execution or control flow error detected.
 
-## Hardware Setup
+## Demonstration Setup
 
-The hardware setup is shown below.
+The demonstration setup is shown below.
 
-IMAGE OF HARDWARE SETUP (HARDWARE + GUI ETC)
+IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
+
+## Hardware Setup / Motor Control ???
 
 - Overview of application
 - Description of hardware setup
