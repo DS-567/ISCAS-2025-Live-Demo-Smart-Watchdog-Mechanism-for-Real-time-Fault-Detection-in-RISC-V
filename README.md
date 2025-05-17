@@ -45,7 +45,11 @@ An 8-stage methodology for developing this smart watchdog can be found [here](/M
 
 # Live Demonstration of Smart Watchdog 🚀
 
-This live demonstration showcases the smart watchdog hardware model monitoring execution Neorv32 in real time. 
+This live demonstration showcases the smart watchdog hardware model monitoring execution Neorv32 in real time.
+
+- Overview of application
+- Description of hardware setup
+- animations?
 
 # Contact
 
