@@ -53,4 +53,4 @@ Or connect on LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
 # Citation
 
-include citation details
+Citation details to come.
