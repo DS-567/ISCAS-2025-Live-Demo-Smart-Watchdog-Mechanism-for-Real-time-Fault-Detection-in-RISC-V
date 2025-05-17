@@ -64,6 +64,10 @@ IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
 - Description of hardware setup
 - animations?
 
+<p align="center">
+  <img src="Images/Demo_Application_Diagram.PNG" alt="Demo Application Diagram" width="500"/>
+</p>
+
 ## Hardware Details
 
 Check out a video of the smart watchdog in action: [Live Demo Video](/link)
