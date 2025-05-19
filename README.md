@@ -82,8 +82,14 @@ Or connect on LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
 # PhD Supervisors
 
+Ulster University
+
+School of Computing, Engineering and Intelligent Systems
+
 Professor Jim Harkin
+
 Mr Malachy McElholm
+
 Professor Liam McDaid
 
 # Citation
