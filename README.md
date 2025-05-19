@@ -84,7 +84,7 @@ Or connect on LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
 Ulster University
 
-School of Computing, Engineering and Intelligent Systems
+School of Computing, Engineering and Intelligent Systems (UNI LOGO INSTEAD???)
 
 Professor Jim Harkin
 
