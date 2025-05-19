@@ -76,9 +76,11 @@ Check out a video of the smart watchdog and RISC-V in action: [Live Demo Video](
 
 # Contact
 
-Feel free to reach out via email: simpson-d12@ulster.ac.uk
+Feel free to reach out with any questions:
 
-Or LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
+Email: simpson-d12@ulster.ac.uk
+
+LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
 # PhD Supervisors
 
