@@ -1,5 +1,7 @@
 # Methodology
 
+IS THIS OK WITH COPYRIGHT ETC????
+
 There were 8 stages to develop the smart watchdog, as shown below. This information can also be found in the main paper.
 
 <p align="center">
