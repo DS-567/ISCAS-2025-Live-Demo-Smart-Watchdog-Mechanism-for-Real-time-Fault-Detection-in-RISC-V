@@ -80,6 +80,12 @@ Feel free to reach out via email: simpson-d12@ulster.ac.uk
 
 Or connect on LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
+# PhD Supervisors
+
+Professor Jim Harkin
+Mr Malachy McElholm
+Professor Liam McDaid
+
 # Citation
 
 Citation details to come.
