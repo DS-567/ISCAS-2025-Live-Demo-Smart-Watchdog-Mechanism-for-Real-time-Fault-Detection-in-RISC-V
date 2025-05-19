@@ -84,7 +84,7 @@ LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
 # PhD Supervisors
 
-Ulster University - School of Computing, Engineering and Intelligent Systems
+Ulster University - School of Computing, Engineering and Intelligent Systems, Magee campus
 
 (UNI LOGO)
 
