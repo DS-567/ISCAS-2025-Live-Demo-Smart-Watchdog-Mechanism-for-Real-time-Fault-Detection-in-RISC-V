@@ -88,14 +88,6 @@ Email: simpson-d12@ulster.ac.uk
 
 LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
-# PhD Supervisors
-
-Ulster University - School of Computing, Engineering and Intelligent Systems, Magee campus
-
-(UNI LOGO)
-
-Professor Jim Harkin, Mr Malachy McElholm, Professor Liam McDaid
-
 # Disclaimer
 
 This page contains supplementary material for our ISCAS 2025 papers.
