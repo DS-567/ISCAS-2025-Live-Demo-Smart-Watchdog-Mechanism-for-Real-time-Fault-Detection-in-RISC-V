@@ -1,11 +1,6 @@
 # RISC-V code
 
-C and assembly software files ....
+C code running on Neorv32 for this live demonstration, along with the assembly file.
 
-give some information on the program
-
-Explain assembly file etc?
-
-flowchart?
 
 
