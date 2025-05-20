@@ -45,6 +45,10 @@ The 8-stage methodology for developing this smart watchdog can be found [here](/
 
 This live demonstration deploys the developed smart watchdog model on FPGA to monitor program execution in real time of the RISC-V processor (Neorv32).
 
+## Video of Smart Watchdog Live Demonstration
+
+Check out a video of the smart watchdog and RISC-V in action: [Live Demo Video](/link)
+
 ## Overview
 
 * A [basic PI-speed control algorithmn](/RISC-V%20Code/) written in C is compiled and executed on Neorv32, resembling a safety-critical motor control task.
@@ -75,10 +79,6 @@ All custom FPGA hardware is packaged inside an IP block (ISCAS_demo_IP1) with an
 ## Hardware Details
 
 ???
-
-## Video of Smart Watchdog Live Demonstration
-
-Check out a video of the smart watchdog and RISC-V in action: [Live Demo Video](/link)
 
 # Contact
 
