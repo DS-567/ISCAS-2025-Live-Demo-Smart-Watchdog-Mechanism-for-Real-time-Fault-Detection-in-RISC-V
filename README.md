@@ -66,7 +66,7 @@ IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
   <img src="Images/Demo_Application_Diagram.PNG" alt="Demo Application Diagram" width="575"/>
 </p>
 
-All custom hardware is packaged inside an IP block called ISCAS_demo_IP1 that has an AXI interface, as shown in the block diagram from Vivado below.
+All custom FPGA hardware is packaged inside an IP block called ISCAS_demo_IP1 that has an AXI interface, as shown in the block diagram from Vivado below.
 
 <p align="center">
   <img src="Images/Vivado_Block_Diagram.PNG" alt="Vivado Block Diagram" width="550"/>
