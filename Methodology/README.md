@@ -1,6 +1,6 @@
 # Methodology
 
-IS THIS OK WITH COPYRIGHT ETC????
+IS THIS OK TO INCLUDE AS IT IS FROM PAPER (IEEE COPYRIGHT ETC)?
 
 There were 8 stages to develop the smart watchdog, as shown below. This information can also be found in the main paper.
 
