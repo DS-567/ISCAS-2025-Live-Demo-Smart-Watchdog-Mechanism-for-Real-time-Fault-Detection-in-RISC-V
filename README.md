@@ -90,6 +90,12 @@ Ulster University - School of Computing, Engineering and Intelligent Systems, Ma
 
 Professor Jim Harkin, Mr Malachy McElholm, Professor Liam McDaid
 
+# Disclaimer
+
+This page contains supplementary material for our ISCAS 2025 paper.
+
+© 2025 IEEE. This content is provided for academic purposes only.
+
 # Citation
 
 Citation details to come.
