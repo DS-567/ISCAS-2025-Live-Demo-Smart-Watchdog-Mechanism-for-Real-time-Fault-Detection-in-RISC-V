@@ -70,6 +70,10 @@ IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
 
 ## Hardware Details
 
+<p align="center">
+  <img src="Images/Vivado_Block_Diagram.PNG" alt="Vivado Block Diagram" width="550"/>
+</p>
+
 ## Video of Smart Watchdog Live Demonstration
 
 Check out a video of the smart watchdog and RISC-V in action: [Live Demo Video](/link)
