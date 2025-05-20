@@ -60,19 +60,21 @@ IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
 
 ## Motor Control Task
 
-- Overview of application
-- Description of hardware setup
-- animations?
+- Overview of application ?
 
 <p align="center">
   <img src="Images/Demo_Application_Diagram.PNG" alt="Demo Application Diagram" width="575"/>
 </p>
 
-## Hardware Details
+All custom hardware is packaged inside an IP block called ISCAS_demo_IP1 that has an AXI interface, as shown in the block diagram from Vivado below.
 
 <p align="center">
   <img src="Images/Vivado_Block_Diagram.PNG" alt="Vivado Block Diagram" width="550"/>
 </p>
+
+## Hardware Details
+
+???
 
 ## Video of Smart Watchdog Live Demonstration
 
