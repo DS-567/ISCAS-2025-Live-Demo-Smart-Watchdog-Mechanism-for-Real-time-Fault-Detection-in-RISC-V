@@ -66,7 +66,7 @@ IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
   <img src="Images/Demo_Application_Diagram.PNG" alt="Demo Application Diagram" width="575"/>
 </p>
 
-All custom FPGA hardware is packaged inside an IP block called ISCAS_demo_IP1 that has an AXI interface, as shown in the Vivado block diagram below. A Microblaze communicates with the custom IP through the AXI interface and also with the Python GUI over UART. 
+All custom FPGA hardware is packaged inside an IP block (ISCAS_demo_IP1) with an AXI interface, as shown in the block diagram below. A Microblaze communicates with the custom IP through the AXI interface and with the Python GUI over UART. 
 
 <p align="center">
   <img src="Images/Vivado_Block_Diagram.PNG" alt="Vivado Block Diagram" width="550"/>
