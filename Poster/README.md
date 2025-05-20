@@ -1,3 +1,7 @@
+# Link to Live Demo IEEE Paper
+
+Link to IEEE paper: [Link to IEEE live demo paper](https://ieeexplore.ieee.org/)
+
 # Poster References
 
 [1] - J. Li, S. Zhang, and C. Bao, **“DuckCore: A Fault-Tolerant Processor Core Architecture Based on the RISC-V ISA,”** Electronics (Basel), vol. 11, no. 1, p. 122, Dec. 2021, doi:10.3390/electronics11010122.​
