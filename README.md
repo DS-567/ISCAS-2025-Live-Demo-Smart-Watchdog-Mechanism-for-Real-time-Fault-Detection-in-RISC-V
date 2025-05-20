@@ -6,8 +6,8 @@
 
 [![](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/)
 [![](https://img.shields.io/badge/IEEE-Demo-blue)]((https://ieeexplore.ieee.org/))
-[![](https://img.shields.io/badge/Presentation-Slides-yellow)](/Paper/)
-[![](https://img.shields.io/badge/Presentation-Video-green)](/Paper/Presentation%20Slides.pdf)
+[![](https://img.shields.io/badge/Presentation-Slides-yellow)](/Paper/Presentation%20Slides.pdf)
+[![](https://img.shields.io/badge/Presentation-Video-green)](/Paper/)
 [![](https://img.shields.io/badge/ISCAS-Poster-red)](/Poster/A0%20Poster%20portrait.pdf)
 [![](https://img.shields.io/badge/Demonstration-Video-purple)](/Poster/A0%20Poster%20portrait.pdf)
 
