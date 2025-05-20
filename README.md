@@ -9,7 +9,6 @@
 [![](https://img.shields.io/badge/Presentation-Slides-yellow)](/Paper/Presentation%20Slides.pdf)
 [![](https://img.shields.io/badge/Presentation-Video-green)](/Paper/Presentation%20Slides.pdf)
 [![](https://img.shields.io/badge/ISCAS-Poster-red)](/Poster/A0%20Poster%20portrait.pdf)
-[![](https://img.shields.io/badge/Demonstration-Info-orange)](/Poster/A0%20Poster%20portrait.pdf)
 [![](https://img.shields.io/badge/Demonstration-Video-purple)](/Poster/A0%20Poster%20portrait.pdf)
 
 This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025.
