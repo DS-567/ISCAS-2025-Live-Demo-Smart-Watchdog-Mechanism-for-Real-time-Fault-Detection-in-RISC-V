@@ -80,6 +80,10 @@ All custom FPGA hardware is packaged inside an IP block (ISCAS_demo_IP1) with an
 
 ???
 
+# More information
+
+More info will be made available after ISCAS!
+
 # Contact
 
 Feel free to reach out with any questions:
