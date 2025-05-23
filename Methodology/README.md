@@ -64,7 +64,7 @@ Network size is 16 inputs and hidden and output layers of 20 and 2 leaky-integra
 Output layer decoding simply takes the highest sspike count neuron as the class winner for the inference.
 
 <p align="center">
-  <img src="../Images/SNN_Model_Design.PNG" alt="SNN Model Design" width="950"/>
+  <img src="../Images/SNN_Model_Design.PNG" alt="SNN Model Design" width="900"/>
 </p>
 
 ## **Stage 5 - SNN Model Training**:
