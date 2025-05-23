@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Top_Background.PNG" alt="Top Background" width="900"/>
+  <img src="Images/Top_Background.PNG" alt="Top Background" width="700"/>
 </p>
 
 # ISCAS 2025 Live Demonstration: Smart Watchdog Mechanism for Real time Fault Detection in RISC-V
