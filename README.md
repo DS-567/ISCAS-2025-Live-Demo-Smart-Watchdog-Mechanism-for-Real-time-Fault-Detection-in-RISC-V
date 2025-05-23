@@ -8,8 +8,8 @@
 [![](https://img.shields.io/badge/IEEE-Demo-blue)]((https://ieeexplore.ieee.org/))
 [![](https://img.shields.io/badge/Presentation-Slides-yellow)](/Paper/Presentation%20Slides.pdf)
 [![](https://img.shields.io/badge/Presentation-Video-green)](/Paper/)
-[![](https://img.shields.io/badge/ISCAS-Poster-red)](/Poster/A0%20Poster%20portrait.pdf)
-[![](https://img.shields.io/badge/Demonstration-Video-purple)](/Poster/A0%20Poster%20portrait.pdf)
+[![](https://img.shields.io/badge/ISCAS-Poster-red)](/Poster/ISCAS%202025%20Poster.pdf)
+[![](https://img.shields.io/badge/Demonstration-Video-purple)](/Poster/ISCAS%202025%20Poster.pdf)
 
 This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025.
 
