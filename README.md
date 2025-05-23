@@ -29,11 +29,11 @@ This appears to be first instance of SNNs being used as a watchdog to detect fau
 
 ## What is a Control Flow Error?
 
-When a software program is written for an embedded processors (e.g. C, or assembly), compilation tools convert this high level code into a sequence of instructions. The CPU then fetches instructions dynamically to execute the program algorithm. Transient faults such as Single Event Upsets (SEUs) can corrupt this sequence of instruction executed, causing the processor to deviate away from the correct program flow. This is known as a Control Flow Error (CFE).
+When a software program is written for an embedded processors (e.g. C, or assembly), compilation tools convert this high level code into a sequence of instructions. The CPU then fetches instructions dynamically to execute the program algorithm. Transient faults such as Single Event Upsets (SEUs) can corrupt this sequence of instructions executed, causing the processor to deviate away from the correct program flow. This is known as a Control Flow Error (CFE).
 
 ## What is a Smart Watchdog? 
 
-A watchdog is an independant hardware component that monitors the execution of a software program during runtime, and can detect when CFEs occur. We call this a smart watchdog as it uses a brain-like circuit (SNN) that can make decisions on the execution of a program based on an offline training process. The diagram below shows the smart watchdog implemented in hardware with the RISC-V processor (Neorv32).
+A watchdog is an independant hardware component that monitors the execution of a program during runtime, and can detect when CFEs occur in a processor. We call this a smart watchdog as it uses a brain-like circuit (SNN) capable of making decisions on the program execution based on an offline training process. The diagram below shows the smart watchdog implemented in hardware with the RISC-V processor (Neorv32).
 
 <p align="center">
   <img src="Images/Smart_Watchdog_Hardware_Implementation.PNG" alt="Smart Watchdog Hardware Implementation" width="550"/>
