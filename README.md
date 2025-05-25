@@ -50,9 +50,9 @@ The 8-stage methodology for developing this smart watchdog can be found [here](/
 
 # Smart Watchdog Live Demonstration 🚀
 
-This live demonstration deploys the developed smart watchdog model on FPGA to monitor program execution in real time of the RISC-V processor (Neorv32).
+This live demonstration deploys the developed smart watchdog model on FPGA to monitor program execution of the RISC-V processor (Neorv32).
 
-Check out a video of the smart watchdog and RISC-V in action: [Live Demo Video](/link)
+Check out a video of the smart watchdog monitoring the RISC-V processor in real time: [Live Demo Video](/link)
 
 ## Overview
 
