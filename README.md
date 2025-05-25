@@ -60,14 +60,6 @@ To see the PCBs created for this live demo in more detail: [Demo PCBs](/??/)
   <img src="Images/Top_Background.PNG" alt="Top Background" width="700"/>
 </p>
 
-## Motor Control Task
-
-- Overview of application ?
-
-<p align="center">
-  <img src="Images/Demo_Application_Diagram.PNG" alt="Demo Application Diagram" width="575"/>
-</p>
-
 All custom FPGA hardware is packaged inside an IP block (ISCAS_demo_IP1) with an AXI interface, as shown in the block diagram below. A Microblaze communicates with the custom IP through the AXI interface and with the Python GUI over UART. 
 
 <p align="center">
