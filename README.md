@@ -66,10 +66,6 @@ All custom FPGA hardware is packaged inside an IP block (ISCAS_demo_IP1) with an
   <img src="Images/Vivado_Block_Diagram.PNG" alt="Vivado Block Diagram" width="550"/>
 </p>
 
-## Fault Injection
-
-...
-
 # Contact
 
 Feel free to reach out with any questions:
