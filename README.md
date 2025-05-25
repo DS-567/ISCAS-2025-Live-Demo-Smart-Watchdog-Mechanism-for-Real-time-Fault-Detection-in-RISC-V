@@ -54,6 +54,8 @@ Check out a video of the smart watchdog monitoring the RISC-V processor in real 
 
 The demonstration setup is shown below.
 
+To see the PCBs created fr this live demo in more detail: [Demo PCBs](/??/)
+
 <p align="center">
   <img src="Images/Top_Background.PNG" alt="Top Background" width="700"/>
 </p>
