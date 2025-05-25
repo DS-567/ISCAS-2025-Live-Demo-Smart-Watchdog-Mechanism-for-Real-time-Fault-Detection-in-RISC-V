@@ -13,16 +13,8 @@
 
 This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025.
 
-Links to IEEE papers will be available soon!
+More info will be made available after ISCAS!
 
-## Overview
-
-- [Summary](#Summary)
-- [Background](#Background)
-- [Smart Watchdog Live Demonstration](#Smart-Watchdog-Live-Demonstration)
-- [Results](#results)
-- [References](#references)
-- 
 # Summary 👀
 
 In this paper we developed a novel, smarter watchdog paradigm for RISC-V processors capable of detecting hardware faults (control flow errors) in real time. Inspired by how the human brain can perform complex computation both efficiently and reliably, we leverage Spiking Neural Networks (SNNs) as the critical decision-making element with the objective of realising a more dependable and hardware friendly watchdog architecture.
@@ -84,13 +76,11 @@ All custom FPGA hardware is packaged inside an IP block (ISCAS_demo_IP1) with an
 
 ## Fault Injection
 
+...
+
 ## Hardware Details
 
-???
-
-# More information
-
-More info will be made available after ISCAS!
+...
 
 # Contact
 
