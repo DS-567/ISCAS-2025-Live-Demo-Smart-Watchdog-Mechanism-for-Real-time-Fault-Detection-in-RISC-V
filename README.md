@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Images/Top_Background.PNG" alt="Top Background" width="700"/>
-</p>
-
 # ISCAS 2025 Live Demonstration: Smart Watchdog Mechanism for Real time Fault Detection in RISC-V
 
 [![](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/)
@@ -58,7 +54,9 @@ Check out a video of the smart watchdog monitoring the RISC-V processor in real 
 
 The demonstration setup is shown below.
 
-IMAGE OF DEMO SETUP (HARDWARE + GUI ETC)
+<p align="center">
+  <img src="Images/Top_Background.PNG" alt="Top Background" width="700"/>
+</p>
 
 ## Motor Control Task
 
