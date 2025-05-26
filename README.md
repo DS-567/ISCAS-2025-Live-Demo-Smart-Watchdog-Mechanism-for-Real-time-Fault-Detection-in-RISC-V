@@ -52,7 +52,9 @@ Check out a video of the smart watchdog monitoring the RISC-V processor in real 
 
 ## Demonstration Setup
 
-The demonstration setup is shown below.
+The demonstration setup is shown below. There are 2 main parts of the setup:
+
+* A 
 
 To see the PCBs created for this live demo in more detail: [PCBs](/PCBs/).
 
