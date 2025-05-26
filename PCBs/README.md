@@ -6,7 +6,7 @@ Allows the demo attendee to start, stop and change the direction of the motor us
 
 #### Motor Encoder Circuit
 
-Converts the 12V pulses from the rotary encoder to 3.3V which are connected to the FPGA.
+Converts the 12V pulses from the rotary encoder to 3.3V which are connected to the FPGA. Test points provide oscilloscope access to the 12V encoder pulses for visualisation.  
 
 #### Fault Injection and Smart Watchdog Monitoring Circuit
 
