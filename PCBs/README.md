@@ -1,6 +1,6 @@
 PCBs that were designed for this live demonstration
 
-### Motor Control Circuit
+#### Motor Control Circuit
 
 ## Motor Encoder Circuit
 
