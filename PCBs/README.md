@@ -10,4 +10,3 @@ Converts the 12V pulses from the rotary encoder to 3.3V which are connected to t
 
 #### Fault Injection and Smart Watchdog Monitoring Circuit
 
-
