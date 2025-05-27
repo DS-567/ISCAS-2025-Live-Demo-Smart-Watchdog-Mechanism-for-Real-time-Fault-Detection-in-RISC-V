@@ -84,11 +84,13 @@ Department for the Economy (DfE) PhD scholarship.
 
 Thanks to Stephan Nolting for sharing his experstise on RISC-V and in particular, Neorv32.
 
-# Disclaimer
+## License and Usage
 
-This page contains supplementary material for our ISCAS 2025 papers.
+This repository contains supplementary material for our ISCAS 2025 papers. It includes summaries and a demo. Any code is provided for academic viewing only and is not intended for reuse or redistribution, therefore no license is granted yet.
 
-© 2025 IEEE. IEEE owns the copyright of these papers. This content is provided for academic purposes only.
+© 2025 IEEE. IEEE owns the copyright of these papers. 
+
+
 
 # Citation
 
