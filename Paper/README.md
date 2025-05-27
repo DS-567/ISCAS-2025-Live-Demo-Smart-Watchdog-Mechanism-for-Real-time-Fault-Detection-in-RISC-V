@@ -1,6 +1,6 @@
 # Link to IEEE Paper
 
-Link to IEEE paper: [Link to IEEE paper](https://ieeexplore.ieee.org/)
+Link to IEEE paper: coming soon
 
 # Link to Presentation Video
 
