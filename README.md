@@ -72,7 +72,7 @@ All custom FPGA hardware is packaged inside an IP block (ISCAS_demo_IP1) with an
 
 # Contact
 
-Feel free to reach out with any questions:
+Feel free to reach out:
 
 Email: simpson-d12@ulster.ac.uk
 
