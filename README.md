@@ -87,7 +87,7 @@ Thanks to Stephan Nolting for sharing his experstise on RISC-V and in particular
 
 This page contains supplementary material for our ISCAS 2025 papers.
 
-© 2025 IEEE. This content is provided for academic purposes only.
+© 2025 IEEE. IEEE owns the copyright of these papers and this content is provided for academic purposes only.
 
 # Citation
 
