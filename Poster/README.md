@@ -1,6 +1,6 @@
 # Link to Live Demo IEEE Paper
 
-Link to IEEE paper: [Link to IEEE live demo paper](https://ieeexplore.ieee.org/)
+Link to IEEE paper: coming soon
 
 # Poster References
 
