@@ -86,11 +86,9 @@ Thanks to Stephan Nolting for sharing his experstise on RISC-V and in particular
 
 ## License and Usage
 
-This repository contains supplementary material for our ISCAS 2025 papers. It includes summaries and a demo. Any code is provided for academic viewing only and is not intended for reuse or redistribution, therefore no license is granted yet.
+This repository contains supplementary material for our ISCAS 2025 paper(s), including summaries and a demo. The code is provided strictly for academic viewing and reference purposes. It is not licensed for reuse, redistribution, or modification.
 
-© 2025 IEEE. IEEE owns the copyright of these papers. 
-
-
+© 2025 IEEE. All rights reserved. IEEE retains copyright ownership of the published papers.
 
 # Citation
 
