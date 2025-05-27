@@ -4,4 +4,4 @@ Link to IEEE paper: coming soon
 
 # Link to Presentation Video
 
-Link to recorded ISCAS presentation: Coming soon
+Link to recorded ISCAS presentation: coming soon
