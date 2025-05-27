@@ -76,6 +76,12 @@ Email: simpson-d12@ulster.ac.uk
 
 LinkedIn: https://www.linkedin.com/in/david-simpson-040189221/
 
+# Acknowledgements
+
+Department for the Economy (DfE) PhD scholarship.
+
+Thanks to Stephan Nolting for sharing his experstise on RISC-V and in particular, Neorv32.
+
 # Disclaimer
 
 This page contains supplementary material for our ISCAS 2025 papers.
