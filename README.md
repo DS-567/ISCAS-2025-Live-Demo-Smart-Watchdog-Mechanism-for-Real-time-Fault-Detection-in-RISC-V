@@ -9,6 +9,8 @@
 
 This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025.
 
+ add link to sceis: phd researcher at UU - SCEIS
+ 
 Code and additional info will be made available after ISCAS!
 
 # Summary 👀
