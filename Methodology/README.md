@@ -6,4 +6,4 @@ There were 8 stages to develop the smart watchdog, as shown below. This informat
   <img src="../Images/Methodology.PNG" alt="Methodology" width="820"/>
 </p>
 
-[Return back](../README.md#Smart-Watchdog-Live-Demonstration-)
+[Return to live demo](../README.md#Smart-Watchdog-Live-Demonstration-)
