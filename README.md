@@ -9,7 +9,7 @@
 
 This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025.
 
- add link to sceis: phd researcher at UU - SCEIS
+ David Simpson - PhD researcher at [Ulster University - School of Computing, Engineering and Intelligent Systems]( https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/computing-engineering-intelligent-systems)
  
 Code and additional info will be made available after ISCAS!
 
