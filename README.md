@@ -92,4 +92,4 @@ This repository contains supplementary material for our ISCAS 2025 papers, inclu
 
 # Citation
 
-Citation details to come.
+D. Simpson, J. Harkin, M. McElholm and L. McDaid, "Smart Watchdog Mechanism for Fault Detection in RISC-V," 2025 IEEE International Symposium on Circuits and Systems (ISCAS), London, United Kingdom, 2025, pp. 1-5, doi: 10.1109/ISCAS56072.2025.11044018.
