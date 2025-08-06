@@ -1,6 +1,6 @@
 # ISCAS 2025 Live Demonstration: Smart Watchdog Mechanism for Real time Fault Detection in RISC-V
 
-[![](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/)
+[![](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/11044018)
 [![](https://img.shields.io/badge/IEEE-Demo-blue)](https://ieeexplore.ieee.org/)
 [![](https://img.shields.io/badge/Presentation-Slides-yellow)](/Paper/ISCAS%202025%20Presentation%20Slides.pdf)
 [![](https://img.shields.io/badge/ISCAS-Poster-red)](/Poster/ISCAS%202025%20Poster.pdf)
