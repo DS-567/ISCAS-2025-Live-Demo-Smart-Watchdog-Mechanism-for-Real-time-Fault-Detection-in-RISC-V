@@ -44,7 +44,7 @@ This live demonstration deploys the developed smart watchdog model on FPGA to mo
 
 Check out a video of the smart watchdog monitoring the RISC-V processor in real time: [Live Demo Video](https://youtu.be/D4o1u4qUvNw)
 
-## Overview
+## Demonstration Overview
 
 * A [basic PI-speed control algorithmn](/RISC-V%20Code/) written in C is compiled and executed on Neorv32, resembling a safety-critical motor control task.
 * The speed and direction of the motor can be controlled while faults are injected into the program counter register of Neorv32 where control flow errors might manifest.
