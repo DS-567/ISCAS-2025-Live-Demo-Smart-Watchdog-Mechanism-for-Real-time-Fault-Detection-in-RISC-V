@@ -55,7 +55,7 @@ Check out a video of the smart watchdog monitoring the RISC-V processor in real 
 
 The demonstration setup is shown below. There are 2 main parts of the setup:
 
-* A hardware design consisting of a motor, rotary encoder, some PCBs and a Digilent FPGA development board (AMD Artix-7 FPGA).
+* A hardware design consisting of a motor, rotary encoder, custom PCBs and a Digilent FPGA development board (AMD Artix-7 FPGA).
 * A software Python-based GUI running on a Dell laptop and displayed on a monitor.
 
 To view the PCBs created for this live demo in more detail: [PCBs](/PCBs/).
