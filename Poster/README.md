@@ -1,6 +1,6 @@
 # Link to Live Demo IEEE Paper
 
-Link to IEEE paper: coming soon
+https://ieeexplore.ieee.org/document/11044164
 
 # Poster References
 
