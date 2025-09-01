@@ -10,8 +10,6 @@ This live demonstration relates to our paper titled “Smart Watchdog Mechanism 
 
  David Simpson - PhD researcher at [Ulster University - School of Computing, Engineering and Intelligent Systems]( https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/computing-engineering-intelligent-systems)
  
-Code and additional info will be made available after ISCAS!
-
 # Summary 👀
 
 In this paper we developed a novel, smarter watchdog paradigm for RISC-V processors capable of detecting hardware faults (control flow errors) in real time. Inspired by how the human brain can perform complex computation both efficiently and reliably, we leverage Spiking Neural Networks (SNNs) as the critical decision-making element with the objective of realising a more dependable and hardware friendly watchdog architecture.
