@@ -8,7 +8,7 @@
 
 This live demonstration relates to our paper titled “Smart Watchdog Mechanism for Fault Detection in RISC-V” also presented at ISCAS 2025.
 
-**Note, this demo and PhD work won the AMD Open Hardware Design Competition 2025 - Full source code for the work can be viewed here: [Github Repo]( https://github.com/DS-567/AMD-AOHW25_620/tree/main).**   
+**Note, this demo and PhD work won the AMD Open Hardware Design Competition 2025 - Full source code and more information can be viewed here: [Github Repo]( https://github.com/DS-567/AMD-AOHW25_620/tree/main).**   
 
  David Simpson - PhD researcher at [Ulster University - School of Computing, Engineering and Intelligent Systems]( https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/computing-engineering-intelligent-systems)
  
